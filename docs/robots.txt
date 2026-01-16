@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://axelbase.github.io/weighted-average-calculator/sitemap.xml
+Sitemap: https://weighted-average-calculator.vercel.app/sitemap.xml
